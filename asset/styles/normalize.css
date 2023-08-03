@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'bakabakone';
+    src: url(../font/bakbakOne/BakbakOne-Regular.ttf);
+}
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url(../font/Poppins/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: 'Poppins-medium';
+    src: url(../font/Poppins/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family: 'Poppins-semibold';
+    src: url(../font/Poppins/Poppins-SemiBold.ttf);
+}
+/* -------------------------------------------------- */
+*,
+::after,
+::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 100%;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.row>* {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.container-fluid,
+.container {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.row {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+figure {
+    margin: 0;
+}
+
+p {
+    margin-bottom: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    margin-bottom: 0;
+}

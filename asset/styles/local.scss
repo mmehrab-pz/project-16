@@ -1,0 +1,595 @@
+//  //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (max-width:576px) {
+
+
+    // -------------------------------nav bar-----------------------------
+    #nav-bar {
+        width: 100%;
+    }
+
+    // -------------------------------header content-----------------------------
+
+
+    #header-content-title {
+        width: 100%;
+
+        >h1 {
+            font-size: 60px;
+        }
+
+        >p {
+            font-size: 15px;
+        }
+    }
+
+    // -------------------------------header marquee-----------------------------
+    #marquee {
+        >div {
+            >p {
+                padding: 0 50px;
+            }
+        }
+    }
+
+    // ------------------------------------------main----------------------------------------
+    // ------------------------------about-----------------------------
+    #about-title {
+        transform: scale(0.8);
+    }
+
+    #about-cards {
+        >section {
+            margin-top: 40px;
+        }
+    }
+
+    // ------------------------------road map-----------------------------
+    #map-btn {
+        width: 30%;
+    }
+
+    // ------------------------------------------footer----------------------------------------
+
+    #footer-baner {
+        width: 80%;
+
+        >* {
+            transform: scale(0.8);
+        }
+    }
+
+    #footer-content-logo {
+        padding-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        >p {
+            text-align: center;
+        }
+    }
+
+    #footer-content-ul {
+        >ul {
+            padding: 20px 0 0px 5%;
+            text-align: center;
+        }
+    }
+
+    #footer-content-form {
+        padding: 20px 0 20px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:576px) {
+
+    // -------------------------------nav bar-----------------------------
+    #nav-bar {
+        width: 100%;
+    }
+
+    // -------------------------------header content-----------------------------
+
+
+    #header-content-title {
+        width: 100%;
+
+        >h1 {
+            font-size: 63px;
+        }
+
+        >p {
+            font-size: 15px;
+        }
+    }
+
+    // -------------------------------header marquee-----------------------------
+    #marquee {
+        >div {
+            >p {
+                padding: 0 50px;
+            }
+        }
+    }
+
+    // ------------------------------------------main----------------------------------------
+    // ------------------------------about-----------------------------
+    #about-title {
+        transform: scale(0.8);
+    }
+
+    #about-cards {
+        >section {
+            margin-top: 40px;
+        }
+    }
+
+    // ------------------------------road map-----------------------------
+    #map-btn {
+        width: 30%;
+    }
+
+    // ------------------------------------------footer----------------------------------------
+
+    #footer-baner {
+        width: 80%;
+
+        >* {
+            transform: scale(0.8);
+        }
+    }
+
+    #footer-content-logo {
+        padding-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        >p {
+            text-align: center;
+        }
+    }
+
+    #footer-content-ul {
+        >ul {
+            padding: 20px 0 0px 5%;
+            text-align: center;
+        }
+    }
+
+    #footer-content-form {
+        padding: 20px 0 20px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:768px) {
+
+    // -------------------------------nav bar-----------------------------
+    #nav-bar {
+        width: 100%;
+    }
+
+    // -------------------------------header content-----------------------------
+
+
+    #header-content-title {
+        width: 80%;
+
+        >h1 {
+            font-size: 65px;
+        }
+
+        >p {
+            font-size: 17px;
+        }
+    }
+
+    // -------------------------------header marquee-----------------------------
+    #marquee {
+        >div {
+            >p {
+                padding: 0 50px;
+            }
+        }
+    }
+
+    // ------------------------------road map-----------------------------
+    #map-shape {
+        width: 100%;
+        height: 200px;
+        display: flex;
+        align-items: center;
+
+        #map-shape-line {
+            #map-shape-circle-1 {
+                position: absolute;
+                left: 9.1%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+
+            #map-shape-circle-2 {
+                position: absolute;
+                left: 15.1%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+
+            #map-shape-circle-3 {
+                position: relative;
+            }
+
+            #map-shape-circle-4 {
+                position: absolute;
+                left: 81.6%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+
+            #map-shape-circle-5 {
+                position: absolute;
+                left: 89.2%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:992px) {
+
+    // -------------------------------nav bar-----------------------------
+    #nav-bar {
+        width: 100%;
+    }
+
+    // -------------------------------header content-----------------------------
+
+
+    #header-content-title {
+        width: 80%;
+
+        >h1 {
+            font-size: 72px;
+        }
+
+        >p {
+            font-size: 17px;
+        }
+    }
+
+    // -------------------------------header marquee-----------------------------
+    #marquee {
+        >div {
+            >p {
+                padding: 0 50px;
+            }
+        }
+    }
+
+    // ------------------------------------------main----------------------------------------
+    // ------------------------------about-----------------------------
+    #about-title {
+        transform: scale(0.9);
+    }
+
+    #about-cards {
+        >section {
+            margin-top: 40px;
+        }
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:1200px) {
+
+    // -------------------------------nav bar-----------------------------
+    #nav-bar {
+        width: 100%;
+    }
+
+    // -------------------------------header content-----------------------------
+
+
+    #header-content-title {
+        width: 50%;
+
+        >h1 {
+            font-size: 72px;
+        }
+
+        >p {
+            font-size: 17px;
+        }
+    }
+
+    #header-content-img {
+        >figure {
+            >img {
+                width: 150px;
+            }
+
+            &:nth-of-type(1) {
+                >img {
+                    width: 200px;
+                }
+            }
+        }
+    }
+
+    // -------------------------------header marquee-----------------------------
+    #marquee {
+        >div {
+            >p {
+                padding: 0 50px;
+            }
+        }
+    }
+
+    // ------------------------------------------main----------------------------------------
+    // ------------------------------about-----------------------------
+    #about-title {
+        transform: scale(1);
+    }
+
+    #about-cards {
+        >section {
+            margin-top: 40px;
+        }
+    }
+
+    // ------------------------------road map-----------------------------
+    #map-shape {
+        width: 100%;
+        height: 200px;
+        display: flex;
+        align-items: center;
+
+        #map-shape-line {
+            #map-shape-circle-1 {
+                position: absolute;
+                left: 9.1%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+
+            #map-shape-circle-2 {
+                position: absolute;
+                left: 29.1%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+
+            #map-shape-circle-3 {
+                position: relative;
+            }
+
+            #map-shape-circle-4 {
+                position: absolute;
+                left: 69.1%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+
+            #map-shape-circle-5 {
+                position: absolute;
+                left: 89.2%;
+                background-color: #888B8E;
+
+                >span {
+                    background-color: #888b8e69;
+                }
+            }
+        }
+    }
+
+    #map-btn {
+        width: 10%;
+    }
+
+    // ------------------------------------------footer----------------------------------------
+
+    #footer-baner {
+        width: 80%;
+
+        >* {
+            transform: scale(0.8);
+        }
+    }
+
+    #footer-content-logo {
+        padding-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+
+        >p {
+            text-align: start;
+        }
+    }
+
+    #footer-content-ul {
+        >ul {
+            padding: 20px 0 0px 5%;
+            text-align: start;
+        }
+    }
+
+    #footer-content-form {
+        padding: 20px 0 0px 0;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:1400px) {
+
+    // -------------------------------nav bar-----------------------------
+    #nav-bar {
+        width: 100%;
+    }
+
+    // -------------------------------header content-----------------------------
+
+
+    #header-content-title {
+        width: 50%;
+
+        >h1 {
+            font-size: 72px;
+        }
+
+        >p {
+            font-size: 17px;
+        }
+    }
+
+    #header-content-img {
+        >figure {
+            >img {
+                width: 204px;
+            }
+
+            &:nth-of-type(1) {
+                >img {
+                    width: 270px;
+                }
+            }
+        }
+    }
+
+    // -------------------------------header marquee-----------------------------
+    #marquee {
+        >div {
+            >p {
+                padding: 0 50px;
+            }
+        }
+    }
+
+    // ------------------------------------------main----------------------------------------
+    // ------------------------------about-----------------------------
+    #about-title {
+        transform: scale(1);
+    }
+
+    #about-cards {
+        width: 90%;
+
+        >section {
+            margin-top: 40px;
+        }
+    }
+
+    // ------------------------------how to work-----------------------------
+    #work-cards {
+        width: 90%;
+    }
+        // ------------------------------------------footer----------------------------------------
+
+        #footer-baner {
+            width: 80%;
+    
+            >* {
+                transform: scale(1);
+            }
+        }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// 
+@media screen and (min-width:1600px) {
+
+    // -------------------------------nav bar-----------------------------
+    #nav-bar {
+        width: 80%;
+    }
+
+    // -------------------------------header content-----------------------------
+
+
+    #header-content-title {
+        width: 37%;
+
+        >h1 {
+            font-size: 72px;
+        }
+
+        >p {
+            font-size: 20px;
+        }
+    }
+
+    #header-content-img {
+        >figure {
+            >img {
+                width: 100%;
+            }
+
+            &:nth-of-type(1) {
+                >img {
+                    width: 100%;
+                }
+            }
+        }
+    }
+
+    // -------------------------------header marquee-----------------------------
+    #marquee {
+        >div {
+            >p {
+                padding: 0 50px;
+            }
+        }
+    }
+
+    // ------------------------------------------main----------------------------------------
+    // ------------------------------about-----------------------------
+    #about-title {
+        transform: scale(1);
+    }
+
+    #about-cards {
+        width: 80%;
+
+        >section {
+            margin-top: 40px;
+        }
+    }
+
+    // ------------------------------how to work-----------------------------
+    #work-cards {
+        width: 80%;
+    }
+}
